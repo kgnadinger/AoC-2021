@@ -24,5 +24,5 @@ If you stuck with Kotlin-specific questions or anything related to this template
 [slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
 
-** Solutions
-Day 1 - [Solution][https://github.com/kgnadinger/AoC-2021/tree/main/src/Day_1]
+## Solutions
+Day 1 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day_1)
