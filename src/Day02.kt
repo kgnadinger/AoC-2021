@@ -1,5 +1,4 @@
 fun main() {
-    val folder = "Day_2"
     fun part1(input: List<String>): Int {
         return calculatePosition(input)
     }
@@ -9,9 +8,9 @@ fun main() {
     }
 
     // test if implementation meets criteria from the description, like:
-    val testInput = readInput("input_test", folder)
+    val testInput = readInput("Day02_test")
     println(part2(testInput))
-    val input = readInput("input", folder)
+    val input = readInput("Day02")
     println(part1(input))
     println(part2(input))
 }

@@ -1,5 +1,4 @@
 fun main() {
-    val folder = "Day_1"
     fun part1(input: List<String>): Int {
         return countIncreases(input)
     }
@@ -9,9 +8,9 @@ fun main() {
     }
 
     // test if implementation meets criteria from the description, like:
-    val testInput = readInput("Day01_test", folder)
+    val testInput = readInput("Day01_test")
 //    println(part2(testInput))
-    val input = readInput("Day01", folder)
+    val input = readInput("Day01")
     println(part1(input))
     println(part2(input))
 }
