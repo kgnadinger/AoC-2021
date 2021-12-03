@@ -25,9 +25,9 @@ If you stuck with Kotlin-specific questions or anything related to this template
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
 
 ## Solutions
-Day 1 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day_1) \
-Day 2 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day_2) \
-Day 3 \
+Day 1 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day01.kt) \
+Day 2 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day02.kt) \
+Day 3 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day03.kt) \
 Day 4 \
 Day 5 \
 Day 6 \
