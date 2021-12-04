@@ -28,7 +28,7 @@ If you stuck with Kotlin-specific questions or anything related to this template
 Day 1 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day01.kt) \
 Day 2 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day02.kt) \
 Day 3 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day03.kt) \
-Day 4 \
+Day 4 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day04.kt) \
 Day 5 \
 Day 6 \
 Day 7 \
