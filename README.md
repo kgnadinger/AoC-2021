@@ -29,8 +29,8 @@ Day 1 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day01.kt
 Day 2 - [Solution](https://github.com/kgnadinger/AoC-2021/tree/main/src/Day02.kt) \
 Day 3 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day03.kt) \
 Day 4 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day04.kt) \
-Day 5 \
-Day 6 \
+Day 5 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day05.kt)\
+Day 6 - [Solution](https://github.com/kgnadinger/AoC-2021/blob/main/src/Day06.kt)\
 Day 7 \
 Day 8 \
 Day 9 \
